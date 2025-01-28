@@ -5,6 +5,7 @@ I like to develop projects in my spare time around different subjects such as 3D
 
 ## 🚀 My projects
 - **3D :**
+    - [HowToMakePeopleHappy](https://bubblechatgame.netlify.app/) : Build a little funny game for the global game jam with 4 teammates. https://bubblechatgame.netlify.app/ 
     - [Golden Legends](https://github.com/Golden-Legends) : A 3D video game with 2 friends [@Nicolas](https://github.com/nicolasjp) and [@Rémi](https://github.com/RemiSaurel) for the Games on Web 2024 competition 🥇
     - [Daily Green](https://github.com/Shannorr/games-on-web-2023/tree/0.0.1) : A 3D video game with [@Nicolas](https://github.com/nicolasjp) and Nassim for the Games on Web 2023 competition 🥉
 
